@@ -5,7 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.d.switchcompat</groupId>
-    <artifactId>parent</artifactId>
+    <artifactId>switchcompat-parent</artifactId>
+	<packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
 
 	<modules>
